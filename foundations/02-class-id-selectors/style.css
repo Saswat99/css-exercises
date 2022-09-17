@@ -7,16 +7,10 @@
     font-size: 36px;
 }
 .odd.oddly-cool{
-    background-color: salmon;
-    font-family: Verdana,"DejaVu Sans",sans-serif;
     font-size: 24px;
 }
 #four{
     background-color: palegreen;
     font-size: 24px;
     font-weight: bold;
-}
-.highly-odd{
-    background-color: salmon;
-    font-family: Verdana,"DejaVu Sans",sans-serif;
 }
